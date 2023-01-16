@@ -28,5 +28,11 @@
 * [Jessica Client](https://t.me/NewJessica)
 * [LiquidBounce Client](https://liquidbounce.net/)
 * [FDPClient](https://fdpclient.club/)
+* [RavenB++ Client](https://k-ov.github.io/)
+* [Impact Client](https://impactclient.net/)
+* [Akira Client](https://akiraghost.com/)
+* [Noise Client](https://noiseereach.github.io/)
+* [NightX Client](https://github.com/opZywl/NightX-Client)
+* [Azura Client](https://www.azura.best/)
 # Best modded Spigot for Minecraft 1.8
 * [PandaSpigot](https://github.com/hpfxd/PandaSpigot)
