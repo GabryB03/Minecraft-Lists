@@ -34,5 +34,6 @@
 * [Noise Client](https://noiseereach.github.io/)
 * [NightX Client](https://github.com/opZywl/NightX-Client)
 * [Azura Client](https://www.azura.best/)
+* [LiquidBounce++ Client](https://lbplusplus.ga/)
 # Best modded Spigot for Minecraft 1.8
 * [PandaSpigot](https://github.com/hpfxd/PandaSpigot)
