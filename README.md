@@ -20,5 +20,12 @@
 * [Grim Anti Cheat](https://www.spigotmc.org/resources/grim-anticheat.99923/)
 * [Hawk Anti Cheat](https://www.spigotmc.org/resources/hawk-anticheat-mc-1-7-10-1-8-8.40343/)
 * [Spartan Anti Cheat](https://www.spigotmc.org/resources/spartan-advanced-anti-cheat-cheat-detection-hack-blocker-1-7-1-19-3.25638/)
+# Best Minecraft hacked clients
+* [SmartClient](https://github.com/sssssssthedev/SmartClient)
+* [Rise Client](https://riseclient.com/)
+* [Sulfur Client](https://lampadina17.mysellix.io/product/5ef5c83700e31)
+* [Jessica Client](https://t.me/NewJessica)
+* [LiquidBounce Client](https://liquidbounce.net/)
+* [FDPClient](https://fdpclient.club/)
 # Best modded Spigot for Minecraft 1.8
 * [PandaSpigot](https://github.com/hpfxd/PandaSpigot)
