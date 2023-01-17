@@ -35,5 +35,7 @@
 * [NightX Client](https://github.com/opZywl/NightX-Client)
 * [Azura Client](https://www.azura.best/)
 * [LiquidBounce++ Client](https://lbplusplus.ga/)
+* [Wurst Client](https://www.wurstclient.net/)
+* [Inertia Client](https://inertiaclient.com/Download.php)
 # Best modded Spigot for Minecraft 1.8
 * [PandaSpigot](https://github.com/hpfxd/PandaSpigot)
