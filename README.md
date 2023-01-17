@@ -37,5 +37,7 @@
 * [LiquidBounce++ Client](https://lbplusplus.ga/)
 * [Wurst Client](https://www.wurstclient.net/)
 * [Inertia Client](https://inertiaclient.com/Download.php)
+* [Raven N+ Client](https://www.ravennplus.ml/)
+* [LiquidBounce+ Reborn Client](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn)
 # Best modded Spigot for Minecraft 1.8
 * [PandaSpigot](https://github.com/hpfxd/PandaSpigot)
