@@ -14,6 +14,7 @@
 * [ExploitFixer](https://builtbybit.com/resources/exploitfixer-ultimate-anticrasher.26463/)
 # Best anti-cheat plugins
 * [Polar Anti Cheat](https://polar.top/)
+* [Karhu Anti Cheat](https://www.karhu.cc/)
 * [NoCheatPlus](https://www.spigotmc.org/resources/nocheatplus.26/)
 * [Advanced Anti Cheat](https://www.spigotmc.org/resources/aac-advanced-anti-cheat-hack-kill-aura-blocker.6442/)
 * [Vulcan Anti Cheat](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-3.83626/)
